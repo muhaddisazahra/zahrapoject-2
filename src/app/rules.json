@@ -1,0 +1,113 @@
+
+[
+  {
+    "intent": "onboarding",
+    "keywords": ["client onboarding", "what is onboarding", "onboarding process"],
+    "reply": "Client onboarding is the process of understanding your business, project goals, requirements and expectations before work begins. OnboardFlow makes this process easier through guided questions and a structured project brief."
+  },
+  {
+    "intent": "services",
+    "keywords": ["services", "what services", "what do you offer", "your services"],
+    "reply": "Nexa Digital Studio offers:\n\n1. Website Development\n2. E-commerce Development\n3. UI/UX Design\n4. Graphic Design\n5. SEO Services\n6. Social Media Management\n7. Website Maintenance\n\nWould you like details about a particular service?"
+  },
+  {
+    "intent": "website",
+    "keywords": ["website development", "business website", "web development", "website design"],
+    "reply": "Our Website Development service focuses on responsive, modern and user-friendly websites. We can discuss business websites, landing pages and custom website requirements."
+  },
+  {
+    "intent": "ecommerce",
+    "keywords": ["ecommerce", "e-commerce", "online store", "shopping website"],
+    "reply": "Our E-commerce Development service focuses on online stores, product displays, shopping experiences and essential store functionality."
+  },
+  {
+    "intent": "uiux",
+    "keywords": ["ui ux", "ui/ux", "user interface", "user experience", "app design"],
+    "reply": "UI/UX Design focuses on making websites and applications visually appealing, easy to navigate and comfortable to use."
+  },
+  {
+    "intent": "graphic",
+    "keywords": ["graphic design", "logo design", "branding", "visual identity"],
+    "reply": "Our Graphic Design service covers visual identity, logo concepts, marketing graphics and other creative design requirements."
+  },
+  {
+    "intent": "seo",
+    "keywords": ["seo", "search engine optimization", "search visibility", "google ranking"],
+    "reply": "SEO helps improve a website's visibility in search engines through appropriate optimization strategies and content improvements."
+  },
+  {
+    "intent": "social",
+    "keywords": ["social media management", "instagram management", "facebook management", "social media"],
+    "reply": "Social Media Management helps businesses plan and manage their online presence, content and social media communication."
+  },
+  {
+    "intent": "maintenance",
+    "keywords": ["website maintenance", "website support", "website updates", "technical maintenance"],
+    "reply": "Website Maintenance covers ongoing updates, technical improvements and website support according to the agreed project requirements."
+  },
+  {
+    "intent": "pricing",
+    "keywords": ["pricing", "price", "cost", "how much", "charges", "quotation"],
+    "reply": "Every project has different requirements. Pricing depends on the selected service, functionality, complexity and delivery expectations. Submit your project brief to discuss a suitable quotation."
+  },
+  {
+    "intent": "payment",
+    "keywords": ["payment", "pay", "advance payment", "installments", "payment method"],
+    "reply": "Payment arrangements would be discussed and agreed before a project begins. The appropriate terms depend on the project scope."
+  },
+  {
+    "intent": "timeline",
+    "keywords": ["timeline", "how long", "deadline", "delivery time", "completion time"],
+    "reply": "Project timelines depend on the complexity, required features and scope of work. You can share your preferred completion timeframe in the onboarding form."
+  },
+  {
+    "intent": "revisions",
+    "keywords": ["revision", "revisions", "changes", "modifications"],
+    "reply": "Revision arrangements depend on the agreed project scope. We recommend discussing revision expectations before work begins."
+  },
+  {
+    "intent": "requirements",
+    "keywords": ["requirements", "what information", "what do you need", "documents needed"],
+    "reply": "To understand your project, we generally need your contact details, business information, selected service, project description, target audience, budget and preferred timeline."
+  },
+  {
+    "intent": "process",
+    "keywords": ["how it works", "process", "workflow", "project steps"],
+    "reply": "Our proposed workflow is:\n\n1. Understand your requirements.\n2. Review your project brief.\n3. Discuss the scope and quotation.\n4. Agree on project terms.\n5. Begin the project.\n6. Complete delivery and agreed support."
+  },
+  {
+    "intent": "delivery",
+    "keywords": ["project delivery", "deliverables", "final files", "handover"],
+    "reply": "Deliverables depend on your selected service and project agreement. The handover process and required files will be discussed before project completion."
+  },
+  {
+    "intent": "support",
+    "keywords": ["after completion", "after delivery", "technical support", "after project support"],
+    "reply": "Post-project support arrangements depend on the agreed terms. Website maintenance can also be discussed for ongoing technical requirements."
+  },
+  {
+    "intent": "contact",
+    "keywords": ["contact", "email address", "phone number", "contact details"],
+    "reply": "Nexa Digital Studio is a fictional agency used for this demonstration project. No real contact details or actual service commitments are associated with it."
+  },
+  {
+    "intent": "start",
+    "keywords": ["start a project", "start project", "get started", "hire you", "work with you"],
+    "reply": "Excellent! Let's understand your project. Select the Start a Project button below to complete our guided onboarding process and generate your project brief."
+  },
+  {
+    "intent": "thanks",
+    "keywords": ["thank you", "thanks", "thank"],
+    "reply": "You're very welcome! I'm happy to help. Is there anything else you'd like to know?"
+  },
+  {
+    "intent": "goodbye",
+    "keywords": ["goodbye", "bye", "see you"],
+    "reply": "Thank you for visiting Nexa Digital Studio. Have a wonderful day!"
+  },
+  {
+    "intent": "greeting",
+    "keywords": ["hello", "hi", "hey", "good morning", "good afternoon", "good evening"],
+    "reply": "Hello! Welcome to Nexa Digital Studio. I'm your OnboardFlow assistant. I can help you explore services, understand our process and prepare your project brief. How can I help?"
+  }
+]
